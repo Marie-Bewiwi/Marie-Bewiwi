@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hey, welcome to my GitHub profile ! Grab a hot beverage, get cosy ☕
+<p> Maybe you're coming from (insérer mon site ici), if not, check it out ! </p>
 
-<!--
-**Marie-Bewiwi/Marie-Bewiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src=https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_1280.jpg />
+### I'm a student in web programming, with a special liking for UX. 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning everything, keep scrolling to get more details 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
