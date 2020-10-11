@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on my website and my final project !
 - 🌱 I’m currently learning everything, keep scrolling to get more details 
-- 💬 Ask me about ...
-- 📫 How to reach me: [<img width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marie-ang%C3%A9lique-sommier-b94969b3/"> My LinkedIn profile </a>
+- ⚡ Fun fact: My nickname, Bewiwi comes from my surname on Discord, Black Strawberry.
+- 🌌 I'm passionate about space !
+
